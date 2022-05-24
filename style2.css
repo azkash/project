@@ -1,0 +1,32 @@
+body {
+    background-image: url(../assets/main.png);
+    color: #e2e0df;
+}
+
+.jumbotron {
+    background-image: url(../assets/banner.png);
+    background-size: cover;
+    border-radius: 0;
+}
+
+nav {
+    background-color: #354643;
+}
+
+ul li a:hover {
+    background-color: #e2e0df;
+}
+
+ul li a:active {
+    background-color: #4a60ea;
+    color: #e2e0df;
+}
+
+/* FOOTER */
+ footer{
+    background-color: #cb6226;
+    color: #e2e0df;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+ }
